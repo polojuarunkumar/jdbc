@@ -4,7 +4,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.sql.ResultSet;
 
-public class Insertion {
+public class Day2Insertion {
     public static void main(String[] args) {
 
         String url="jdbc:mysql://localhost:3306/JDBC";
